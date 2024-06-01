@@ -1,1 +1,3 @@
 # Pytorch_tutorials
+Im learning pytorch and hoping to improve my programming skills generally... 
+**you dont get punished for wanting to learn more**
